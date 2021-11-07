@@ -1,2 +1,4 @@
 Hii there👋
-I'm currently an Engineering student.
+I'm Jyothsna.
+I'm an Engineering student.
+Passionate in learning new technologies.
